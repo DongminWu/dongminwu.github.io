@@ -6,15 +6,15 @@
 title: Leonids
 email:
 description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-
+url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+keywords: ["Programming", "PHP", "Ruby"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Finland
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -67,4 +67,8 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+<<<<<<< HEAD
   reddit: #username
+=======
+  telegram: #username
+>>>>>>> gh-pages
