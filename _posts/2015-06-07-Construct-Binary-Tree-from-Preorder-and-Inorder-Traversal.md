@@ -1,6 +1,6 @@
 ---
 layout: post
-title:leetcode, 通过先序遍历和中序遍历构造二叉树
+title: leetcode, 通过先序遍历和中序遍历构造二叉树
 date: 2015-06-07
 categories: leetcode
 ---
