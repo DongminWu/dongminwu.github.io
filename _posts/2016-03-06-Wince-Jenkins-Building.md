@@ -2,7 +2,7 @@
 layout: post
 title: Using Jenkins to Build Wince
 date: 2016-03-06
-categories: Wince
+categories: WinCE
 ---
 
 

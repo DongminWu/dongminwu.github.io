@@ -2,8 +2,7 @@
 layout: post
 title: Lua语言中pairs和ipairs的区别
 date: 2014-09-01 00:00 +0008
-categories: Coding
-tags: Lua
+categories: Lua
 ---
 
 tbl = {"alpha", "beta", ["one"] = "uno", ["two"] = "dos"}

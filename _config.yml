@@ -5,9 +5,9 @@
 #
 title: Dongmin Wu
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: 
 url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+keywords: ["Programming", "Machine Learning", "Linux", "IoT"]
 
 #
 ###################################
@@ -34,12 +34,12 @@ kramdown:
 #
 owner:
   name: Dongmin Wu
-  avatar: avatar.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  avatar: avatar.jpg
+  job: "Student"
+  bio: "Do Androids Dream of Electric Sheep?"
+  email: wdm228#(@)gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dongminwu
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username

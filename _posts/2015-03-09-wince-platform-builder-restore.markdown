@@ -2,7 +2,7 @@
 layout: post
 title: Platform Builder 恢复调试方法
 date: 2015-03-09
-categories: wince
+categories: WinCE
 ---
 
 转: [platform builder was unable to read the device settings from the datastore问题解决](http://blog.csdn.net/wirror800/article/details/4087968)

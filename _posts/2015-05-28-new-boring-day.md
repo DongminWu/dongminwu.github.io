@@ -2,7 +2,7 @@
 layout: post
 title: linux 用户组配置, 挂载新硬盘
 date: 2015-05-28
-categories: linux
+categories: Linux
 ---
 
 

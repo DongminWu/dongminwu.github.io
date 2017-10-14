@@ -1,8 +1,14 @@
-- name: Massachusets Instutite of Technology
+- name: Aalto University, Helsinki, Finland
   link: http://web.mit.edu/
   date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+  descr: "Master Degree: ICT-Innovation (in Computer Science School) <br> (expected graduation in 2018)</br>"
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Technische Universität Berlin
+  link: http://www.tu-berlin.de/menue/home/parameter/en/
+  date: 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: "Master Degree: ICT-Innovation (in Computer Science School)"
+
+- name: Beijing University of Posts and Telecommunications
+  link: http://english.bupt.edu.cn/
+  date: 2010 - 2014
+  descr: "Bacholer Degree: Optical Infomation Science and Technology (in Electronic Engineering School)"
