@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Dongmin Wu
 email:
 description: A simple and awesome blog theme powered by jekyll.
 url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
@@ -33,8 +33,8 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
+  name: Dongmin Wu
+  avatar: avatar.png
   job: "A jekyll theme"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
