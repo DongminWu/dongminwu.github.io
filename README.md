@@ -1,6 +1,8 @@
-##Theme
+##Thanks
 
-[Leonids](http://renyuanz.github.io/leonids)
+[Leonids Theme](http://renyuanz.github.io/leonids)
+
+[favicon.png](https://www.flaticon.com/authors/freepik)
 
 ##To Modify the Resume
 
