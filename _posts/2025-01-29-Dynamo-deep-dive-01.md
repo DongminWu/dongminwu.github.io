@@ -41,8 +41,9 @@ def forward(l_x_: torch.Tensor, l_y_: torch.Tensor):
     return (sum_1,)
 {% endhighlight %}
 
-可以看到，Dynamo 将 z = (x - y) ** 2 拆分成了两个操作：sub = l_x_ - l_y_ 和 z = sub ** 2。这种线性化的表示方式使得后续的优化和编译变得更加简单。
-2. 控制流的处理
+可以看到，Dynamo 将 `z = (x - y) ** 2` 拆分成了两个操作：`sub = l_x_ - l_y_` 和 `z = sub ** 2`。这种线性化的表示方式使得后续的优化和编译变得更加简单。
+
+## 2. 控制流的处理
 Dynamo 会忽略函数中的控制流，只记录实际执行的操作。例如：
 
 {% highlight python %}
@@ -70,6 +71,7 @@ def forward(l_x_: torch.Tensor):
 {% endhighlight %}
 
 可以看到，Dynamo 完全忽略了 if 语句，只记录了实际执行的操作。这是因为 Dynamo 的图是基于输入的具体值生成的，因此图的生成依赖于输入。
+
 ## 3. 动态形状的处理
 Dynamo 的一个重要特性是它能够处理动态形状。这意味着它能够追踪整数的变化，而不是将它们视为常量。例如：
 
