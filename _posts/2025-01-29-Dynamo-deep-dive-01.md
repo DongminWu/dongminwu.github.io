@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamo Deep Dive - 01
+title: Dynamo Deep Dive 01
 date: 2025-01-30
 categories: DynamoDeepDive
 ---

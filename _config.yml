@@ -14,7 +14,7 @@ keywords: ["Programming", "Machine Learning", "Linux", "IoT"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Finland
+timezone:          Asia/Shanghai
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Dongmin Wu
   avatar: avatar.jpg
-  job: "Student"
+  job: "Engineer"
   bio: "Do Androids Dream of Electric Sheep?"
   email: wdm228#(@)gmail.com
   disqus-shortname:
